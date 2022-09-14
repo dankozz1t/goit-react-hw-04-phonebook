@@ -1,8 +1,8 @@
 import { useState, useEffect, useMemo } from 'react';
 
 import { Section } from '../Section';
-import Filter from '../Filter';
-import ContactList from '../ContactList';
+import { Filter } from '../Filter';
+import { ContactList } from '../ContactList';
 import { ContactForm } from '../ContactForm';
 
 import { ConfettiContainer } from '../Confetti';
