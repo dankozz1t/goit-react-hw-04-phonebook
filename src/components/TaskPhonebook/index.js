@@ -1,1 +1,1 @@
-export * from './TaskPhonebook';
+export { TaskPhonebook } from './TaskPhonebook';
